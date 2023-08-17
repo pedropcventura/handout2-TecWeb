@@ -29,7 +29,7 @@ body {
 
 /* Você pode usar o CSS comentado abaixo, se ajudar */
 /* Fonte: https://codepen.io/CrisWoler/pen/ogXBLj */
-/* .btn {
+.btn {
   position: relative;
   display: block;
   padding: 10px 15px;
@@ -77,4 +77,29 @@ body {
   padding-top: 120%;
 
   transition: width 0.2s ease-out, padding-top 0.2s ease-out;
-} */
+} 
+
+.logo{
+  width: 4.4rem;
+  padding: 0.5%;
+  padding-right: 1%;
+}
+.appbar{
+  padding-top: 0.5rem;
+  padding-bottom: 0.1rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  background-color: #f7d736;
+  box-shadow: 2px 3px 5px gray;
+}
+.form-card{
+  padding-top: 2%;
+  padding-left: 16rem;
+  padding-right: 16rem;
+  padding: 2rem 16rem 2rem 16rem;
+  display: flex;
+  flex-direction: column;
+
+}
