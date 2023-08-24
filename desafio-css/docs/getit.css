@@ -168,6 +168,9 @@ table {
 .form-card-title:focus, .autoresize:focus{
   outline: none;
 }
+.btn{
+  font-family: 'Roboto', sans-serif;
+}
 
 .form-card-title{
   border-style: none;
