@@ -7,3 +7,6 @@ pedropcv@al.insper.edu.br
 pedrohsf@al.insper.edu.br
 * David Conselvan
 davidmc@al.insper.edu.br
+
+### Github Pages
+* https://pedropcventura.github.io/handout2-TecWeb/
